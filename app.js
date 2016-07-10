@@ -6,11 +6,11 @@ var config = {
   // - Your app's id on moneypot.com
   app_id: 1368,                             // <----------------------------- EDIT ME!
   // - Displayed in the navbar
-  app_name: 'BitCasino Dice',
+  app_name: 'McBitCasino',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: '6Le7tSQTAAAAAAlILyT15Uyww61K5ibinWeffbvW',  // <----- EDIT ME!
-  redirect_uri: 'https://bitcasinodice.github.io/',
+  recaptcha_sitekey: '6LdmoBgTAAAAADTwVqLhItTdNalsC4VHcLP-CNpe',  // <----- EDIT ME!
+  redirect_uri: 'https://mcbitcasino.github.io',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
   chat_uri: '//socket.moneypot.com',
